@@ -1,6 +1,7 @@
 # web_programming_course
 
-This repository contains my ongoing practice work for web programming concepts. It includes multiple HTML and CSS exercises developed as part of my learning process.
+This repository contains my ongoing practice work for web programming concepts. It includes multiple HTML files. CSS, JavaScript, Django, Python, SQL, GIT, User Interface, and Testing CI/CD concepts exercises were developed as part of my learning process.
+
 
 ---
 
