@@ -26,5 +26,7 @@ This project is focused on strengthening my understanding of frontend web develo
 
 ```text
 web_programming_course/
+│── git/        # git practice files
+  |-- assets/images  # images
 │── html/        # HTML practice files
 │── Styles.css   # CSS styles
